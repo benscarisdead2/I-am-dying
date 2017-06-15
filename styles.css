@@ -1,0 +1,89 @@
+#swag{
+  margin-top: 100px;
+}
+
+#logo{
+  max-width:40%;
+  max-height:40%;
+  margin-bottom: 30px;
+}
+
+#shirt1{
+  margin-top: 50px;
+  max-width:25%;
+  max-height:25%;
+}
+
+.container{
+  margin-top: 50px;
+  display:flex;
+  flex-direction: column;
+  height: 60vw;
+  width: 48vw;
+  border: 1px solid black;
+  background-color: #61b34f;
+}
+.content-row{
+  height: 12vw;
+  display: flex;
+}
+
+.text-content{
+  border: .03em solid white;
+  flex-grow: 3;
+}
+
+.squares{
+  font-family: Arial;
+  text-align: center;
+vertical-align: middle;
+line-height: 130px; 
+  border: .03em solid white;
+  width: 12vw;
+}
+
+div{
+  text-align: center;
+  font-size: 4vw;
+  color: white;
+}
+/*
+                 ."-,.__
+                 `.     `.  ,
+              .--'  .._,'"-' `.
+             .    .'         `'
+             `.   /          ,'
+               `  '--.   ,-"'
+                `"`   |  \
+                   -. \, |
+                    `--Y.'      ___.
+                         \     L._, \
+               _.,        `.   <  <\                _
+             ,' '           `, `.   | \            ( `
+          ../, `.            `  |    .\`.           \ \_
+         ,' ,..  .           _.,'    ||\l            )  '".
+        , ,'   \           ,'.-.`-._,'  |           .  _._`.
+      ,' /      \ \        `' ' `--/   | \          / /   ..\
+    .'  /        \ .         |\__ - _ ,'` `        / /     `.`.
+    |  '          ..         `-...-"  |  `-'      / /        . `.
+    | /           |L__           |    |          / /          `. `.
+   , /            .   .          |    |         / /             ` `
+  / /          ,. ,`._ `-_       |    |  _   ,-' /               ` \
+ / .           \"`_/. `-_ \_,.  ,'    +-' `-'  _,        ..,-.    \`.
+.  '         .-f    ,'   `    '.       \__.---'     _   .'   '     \ \
+' /          `.'    l     .' /          \..      ,_|/   `.  ,'`     L`
+|'      _.-""` `.    \ _,'  `            \ `.___`.'"`-.  , |   |    | \
+||    ,'      `. `.   '       _,...._        `  |    `/ '  |   '     .|
+||  ,'          `. ;.,.---' ,'       `.   `.. `-'  .-' /_ .'    ;_   ||
+|| '              V      / /           `   | `   ,'   ,' '.    !  `. ||
+||/            _,-------7 '              . |  `-'    l         /    `||
+. |          ,' .-   ,' ||               | .-.        `.      .'     ||
+ `'        ,'    `".'    |               |    `.        '. -.'       `'
+          /      ,'      |               |,'    \-.._,.'/'
+          .     /        .               .       \    .''
+        .`.    |         `.             /         :_,'.'
+          \ `...\   _     ,'-.        .'         /_.-'
+           `-.__ `,  `'   .  _.>----''.  _  __  /
+                .'        /"'          |  "'   '_
+               /_|.-'\ ,".             '.'`__'-( \
+                 / ,"'"\,'               `/  `-.|" */
